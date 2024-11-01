@@ -22,3 +22,25 @@ let x: undefined = undefined;
 
 // null 
 let y: null = null;
+
+
+// any type use kora uchit na
+let d;
+
+// explace
+let u: number;
+
+u = 'dksk'
+u = 89;
+u = true;
+
+// Array
+let friends: string[] = ['Proshato', 'Labib'];
+friends.push(7);
+friends.push('Pappu');
+
+
+let rolls: number[] = [14749, 14723];
+rolls.push('Pappu');
+rolls.push(9);
+
