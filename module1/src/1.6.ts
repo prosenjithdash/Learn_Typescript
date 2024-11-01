@@ -1,3 +1,4 @@
+{
 // Learning Function
 
 // Normal Function
@@ -44,3 +45,4 @@ const arr: number[] = [34, 54, 32];
 const newArray: number[] = arr.map((element:number):number => element * element);
 
 
+}
