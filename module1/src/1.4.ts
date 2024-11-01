@@ -44,3 +44,15 @@ let rolls: number[] = [14749, 14723];
 rolls.push('Pappu');
 rolls.push(9);
 
+
+
+// Tuple --> array --> order --> type of values
+let coordinates: [number, number] = [34, 89]
+
+let ageName: [number, string] = [23, 'Pappu'];
+
+ageName[0] = 'kjlsd';
+ageName[0] = 78;
+
+let ageNames: [number, string,number] = [23, 'Pappu',90];
+
