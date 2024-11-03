@@ -8,6 +8,11 @@
     // GenericArray
     type GenericArray<T> = Array<T>
 
+       // function for understand generic types
+    const add = (x: number, y: number) => x + y
+    add(30,20)
+    
+
     
 
     // const rollNumbers: number[] = [2, 4, 5];
@@ -49,12 +54,4 @@
     const man: GenericTuple<string, string> = ['mr.x', 'mr.y']
     const UserWithId:GenericTuple<number,{name:string,email:string}> = [1323,{name:'labib',email:'l@gmail.com'}]
     
-
-
-    // function
-    const add = (x: number, y: number) => x + y
-    add(30,20)
-    
-
-
 }
