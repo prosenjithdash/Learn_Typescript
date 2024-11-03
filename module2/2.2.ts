@@ -43,7 +43,7 @@
      const user2:UserWithRole2 = {
         name: 'pappu',
          age: 23,
-        //  role: 'manager'
+         role: 'manager'
         
     }
 

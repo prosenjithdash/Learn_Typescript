@@ -21,6 +21,7 @@
     // const boolArray: Array<boolean> = [true, false, true];
         const boolArray: GenericArray = [true, false, true];
 
+    
 
 
 }
