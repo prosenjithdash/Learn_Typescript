@@ -40,7 +40,8 @@
     // use instanceof
 
     // smart way te handle korar jonno chaile amra function use korte pari
-    // WITH FUNCTION
+
+    // WITH FUNCTION instanceof guard
     const isDog = (animal: Animal):animal is Dog => {
           return animal instanceof Dog
     }
@@ -63,7 +64,7 @@
     }
 
 
-// WITHOUT FUNCTION
+// WITHOUT FUNCTION instanceof guard
     // const getAnimal = (animal: Animal)=>{
     //     if (animal instanceof Dog) {
     //         animal.makeBark()
