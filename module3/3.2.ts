@@ -1,5 +1,5 @@
 {
-    // OOP --- INHERITANCE
+    // OOP ---  v
 
     // When we take anything from our father that is inheritance product.
 
